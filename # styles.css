@@ -1,0 +1,26 @@
+header {
+    background-color: #FFFF;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+    
+  }
+  nav {
+    float: top right;
+    width: 30%;
+    background: #ccc;
+    padding: 20px;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  footer {
+    background-color: rgb(189, 186, 186);
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+
+
